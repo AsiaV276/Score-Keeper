@@ -1,8 +1,8 @@
 # Score-Keeper
-A C++ console application that collects judges scores and outputs results
+A C++ console application that collects judges scores and outputs results.
 
 
-The application asks the user for the number of contestants. (This is an element that I recently added and affects the results)
+The application asks the user for the number of contestants. (This is an element that I recently added and affects the results).
 The user inputs the scores for 6 judges with the constraint that the scores must be values between and including 0 and 10.
 If a score is outside of that range the user is prompted to enter the score again. The program does not continue to the next judge's score input until the previous score is entered correctly.
 The program prompts the user for input for each contestant. 
